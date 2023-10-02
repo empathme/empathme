@@ -1,6 +1,6 @@
-dependency:flutter_gravatar platform:android### Hi there 👋
+ platform:android### Hi there 👋
 <!--
-**empathme/empathme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**empathme/empathme**is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...web design 
 - 🌱 I’m currently learning ... general coding 
 - 👯 I’m looking to collaborate on ...new AI command 
